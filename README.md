@@ -16,5 +16,3 @@
 Check the App Live on: (Click on link below:)
 
 1.	Over Netlify: https://almabetter-capstoneprojectquizapp.netlify.app
-
-2.	Over Github: https://beingmurtuza.github.io/quizapp/
